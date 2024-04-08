@@ -24,6 +24,7 @@ I have completed Inventory Management System using Python. Give a star :)
 <br>
 
 ---
+**DOUBLE- CLICK ON IMAGE TO SHOW THE COLOUR OF PARTICULAR SELECTED PART**
 **Screenshots Of Color Dection Project**
 
 **You can use different images for testing like I used:-**
