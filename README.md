@@ -26,13 +26,16 @@ I have completed Inventory Management System using Python. Give a star :)
 ---
 **Screenshots Of Color Dection Project**
 
-![output2](https://github.com/AdityaKonda6/Color_Detection_Using_Python_Project/assets/95713208/516bb71e-689e-45c9-a3b3-f794c4360cb5)
-![output3](https://github.com/AdityaKonda6/Color_Detection_Using_Python_Project/assets/95713208/fca12a51-98de-4ab0-82a2-9a1517fae596)
-![output4](https://github.com/AdityaKonda6/Color_Detection_Using_Python_Project/assets/95713208/7d01da4c-15c4-4b4b-8aef-09413ecc6077)
-
 **You can use different images for testing like I used:-**
 
-![output1](https://github.com/AdityaKonda6/Color_Detection_Using_Python_Project/assets/95713208/cd93383e-ce63-43be-80a3-56bda4fa18b2)
+![output5](https://github.com/AdityaKonda6/Color_Detection_Using_Python_Project/assets/95713208/fcc25817-58d6-45ee-8e25-f1c98db51ebb)
+![output6](https://github.com/AdityaKonda6/Color_Detection_Using_Python_Project/assets/95713208/59737bad-aa23-4349-9bc7-34fd8ab536f3)
+![output2](https://github.com/AdityaKonda6/Color_Detection_Using_Python_Project/assets/95713208/ca1b2782-3ea8-49cb-874e-98bd588a90b5)
+![output3](https://github.com/AdityaKonda6/Color_Detection_Using_Python_Project/assets/95713208/7c5c89ff-bfc0-4b08-b2d2-7e2f0318c374)
+![output4](https://github.com/AdityaKonda6/Color_Detection_Using_Python_Project/assets/95713208/a5a7a959-dc5d-4529-8a3b-7d8b7cdce071)
+![output7](https://github.com/AdityaKonda6/Color_Detection_Using_Python_Project/assets/95713208/0bd66322-f983-4d4c-ae68-49f993bbf085)
+![output1](https://github.com/AdityaKonda6/Color_Detection_Using_Python_Project/assets/95713208/b6b255db-c288-4845-99c7-18af0af5fd6a)
+
 
 <details>
 <summary>
