@@ -3,7 +3,7 @@
 import cv2
 import pandas as pd
 
-img_path = r'D:\@My Practice\Color-Detection-OpenCV-main\colorpic.jpg'
+img_path = r'../colorpic.jpg'
 img = cv2.imread(img_path)
 
 # declaring global variables (are used later on)
